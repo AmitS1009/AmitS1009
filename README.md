@@ -1,5 +1,5 @@
 ## ✨ **Hey there! I'm Amit Kushwaha** 👋  
-💻 **Machine Learning | Data Science | Software Development Engineer**  
+💻 **Machine Learning | Data Science | Data Analysis | Software Development Engineer**  
 
 ---
 
