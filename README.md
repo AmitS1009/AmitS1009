@@ -1,5 +1,5 @@
 ## ✨ **Hey there! I'm Amit Kushwaha** 👋  
-💻 **Machine Learning | Data Science | GenAI Engineer | Data Analysis**  
+💻 **AI Engineer | Machine Learning | Data Science | Generative AI | Data Analysis**  
 
 ---
 
