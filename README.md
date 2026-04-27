@@ -1,5 +1,5 @@
 ## ✨ **Hey there! I'm Amit Kushwaha** 👋  
-💻 **AI Engineer | Machine Learning | Data Science | Generative AI | Data Analysis**  
+💻 **AI Engineer | Agentic AI | Generative AI | Machine Learning | Data Science**  
 
 ---
 
